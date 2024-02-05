@@ -1,6 +1,6 @@
 version : "3.3"
 services :
   web :
-     image : data-web-app
+     image : data-web-app:latest
      ports :
          - "80:80"
